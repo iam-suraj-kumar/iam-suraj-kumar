@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Suraj Kumar
 - 👀 I’m interested in designing large scale systems
 - 🌱 I’m currently learning distributed system & architecture
-- 💞️ I’m looking to collaborate on content creation
 - 📫 How to reach me suraj.kumar.in@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: traveller
