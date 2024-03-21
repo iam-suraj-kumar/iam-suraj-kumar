@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning distributed system & architecture
 - 💞️ I’m looking to collaborate on content creation
 - 📫 How to reach me suraj.kumar.in@outlook.com
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: traveller
